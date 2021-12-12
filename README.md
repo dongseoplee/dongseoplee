@@ -1,7 +1,13 @@
 ### Hi there 👋
-
+<a href="https://www.instagram.com/dongsseop2/">
+    <img 
+        src="http://img.shields.io/badge/-dongsseop2-222222?style=flat&logo=Instagram&link=https://www.instagram.com/dongsseop2/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<br>
+- 📩 Contact: dongxieli@kakao.com
 <!--
-**dongseoplee/dongseoplee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lee-DongSeop/Lee-DongSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
