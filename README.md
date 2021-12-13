@@ -5,6 +5,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br>
+👨‍💻 I’m currently learning 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 - 📩 Contact: dongxieli@kakao.com
 <!--
 **Lee-DongSeop/Lee-DongSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
