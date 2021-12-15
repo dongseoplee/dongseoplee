@@ -1,13 +1,15 @@
-### Hi there 👋
-<a href="https://www.instagram.com/dongsseop2/">
-    <img 
-        src="http://img.shields.io/badge/-dongsseop2-222222?style=flat&logo=Instagram&link=https://www.instagram.com/dongsseop2/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<br>
+<div align = "center"><h1> Hi there 👋</h1></div>
+<div align = "center">
 👨‍💻 I’m currently learning 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-- 📩 Contact: dongxieli@kakao.com
+<br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+<br>
+<!-- - 📩 Contact: dongxieli@kakao.com-->
+</div>
+
 <!--
 **Lee-DongSeop/Lee-DongSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
