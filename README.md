@@ -9,6 +9,9 @@
 <br>
 <!-- - 📩 Contact: dongxieli@kakao.com-->
 </div>
+<h3>Award</h3>
+<h4>Gachon University Metaverse Contest</h4>
+<img src="https://user-images.githubusercontent.com/76763417/177543355-75b4025e-e62a-42a8-8996-1d2f604282da.png" width=450 height=300>
 
 <!--
 **Lee-DongSeop/Lee-DongSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
