@@ -10,6 +10,8 @@
 <!-- - 📩 Contact: dongxieli@kakao.com-->
 </div>
 <h3>Award</h3>
+<h4>Gachon University T.M.I(Think and Make It!) Contest</h4>
+<img src="https://user-images.githubusercontent.com/76763417/187452115-e4c67924-bbb6-4f0f-bc16-85b327c43385.png" width=450 height=300>
 <h4>Gachon University Metaverse Contest</h4>
 <img src="https://user-images.githubusercontent.com/76763417/177543355-75b4025e-e62a-42a8-8996-1d2f604282da.png" width=450 height=300>
 
