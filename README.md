@@ -17,3 +17,11 @@
   <h4>🥉 Gachon University Metaverse Contest</h4>
   <img src="https://user-images.githubusercontent.com/76763417/177543355-75b4025e-e62a-42a8-8996-1d2f604282da.png" width=450 height=300>
 </div>
+
+
+<h2>🧑 Internship</h2>
+<div align = "center">
+  <img src="https://user-images.githubusercontent.com/76763417/221116300-d4ebc384-612f-4676-9407-e5568affb9de.jpg" width=270 height=120>
+  <div><b>RPA Solution Development Team DX</b></div>
+  <div>2022-12-19 ~ 2023-02-24</div>
+</div>
