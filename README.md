@@ -19,9 +19,11 @@
 </div>
 
 
-<h2>🧑 Internship</h2>
+<h2>👨‍💻 Internship</h2>
 <div align = "center">
+  <a href="https://spacebank.company/" target="_blank">
   <img src="https://user-images.githubusercontent.com/76763417/221116300-d4ebc384-612f-4676-9407-e5568affb9de.jpg" width=270 height=120>
+  <a>
   <div><b>RPA Solution Development Team DX</b></div>
   <div>2022-12-19 ~ 2023-02-24</div>
 </div>
