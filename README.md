@@ -34,3 +34,6 @@
 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{dongseoplee}?pet-id=633558999842253383" width="1000" height="120"/>
+</a>
