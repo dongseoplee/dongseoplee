@@ -3,8 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leeeeeds123@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://dozerland.tistory.com/)
 
-<strong>Software Engineer / Backend Developer</strong>
-<p>Helping you through the software I develop is my ultimate goal!</p>
+<strong>👨‍💻 Software Engineer / Backend Developer</strong>
+<p>🎯 Helping you through the software I develop is my ultimate goal!</p>
 
 <br>
 
@@ -22,7 +22,6 @@
 
 <br>
 
->
 > ## 🛠️ Skill
 <details>
 <summary>👇 Detail Skills </summary>
@@ -77,7 +76,7 @@
 
 </details>
 
-
+<br>
 
 > ## 🏁 Projects
 <ul>
@@ -116,7 +115,6 @@
     <a href="https://youtu.be/FvH0SAdLeug?si=eV_Z7JZ73F3i7uMN"><sub>YouTube</sub></a>
   </li>
 </ul>
-
 
 <br>
 
