@@ -22,7 +22,7 @@
 
 <br>
 
-> ## 🛠️ Skill
+> ## 🛠️ Skills
 <details>
 <summary>👇 Detail Skills </summary>
 
@@ -118,7 +118,7 @@
 
 <br>
 
-> ## 📚 Certificate
+> ## 📚 Certificates
 <ul>
   <li>
     정보처리기사 <sub> 한국산업인력공단 | 2023.09.01</sub>
@@ -130,7 +130,7 @@
 
 <br>
 
-> ## 🏆 Award
+> ## 🏆 Awards
 <ul>
   <li>
     일상생활 속 불편사항 개선 공모전
