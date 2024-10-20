@@ -155,7 +155,7 @@
 > ## ⭐️ Activities
 <ul>
   <li>
-    데이터야놀자 운영위원회 <sub>(2023.10.09 ~ 2024.06.01)</sub>
+    데이터야놀자 운영위원회 <sub>(2023, 2024) <a href="https://www.asiaherald.co.kr/news/27538">기사</a></sub>
   </li>
   <li>
     SK C&C UI/UX 직무체험 <sub>(2023.11.02 ~ 2023.11.09) <a href="https://github.com/dongseoplee/SK-CnC-UI-UX">발표자료</a></sub>
