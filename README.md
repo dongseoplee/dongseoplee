@@ -1,6 +1,5 @@
-<!-- ## 안녕하세요, 이동섭입니다. 👋 -->
-![readme](https://github.com/user-attachments/assets/7dfcc828-8be1-470f-9df1-79a4365e7ff2)
-<br>
+ ## 안녕하세요, 이동섭입니다. 👋 
+
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dongseop-lee-a47307282/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leeeeeds123@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://dozerland.tistory.com/)
