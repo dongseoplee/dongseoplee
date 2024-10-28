@@ -1,4 +1,6 @@
-## 안녕하세요, 이동섭입니다. 👋
+<!-- ## 안녕하세요, 이동섭입니다. 👋 -->
+![readme](https://github.com/user-attachments/assets/7dfcc828-8be1-470f-9df1-79a4365e7ff2)
+<br>
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dongseop-lee-a47307282/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leeeeeds123@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://dozerland.tistory.com/)
@@ -19,6 +21,46 @@
       <sub>Developing an RPA Solution</sub>
   </ul>
 </li>
+
+<br>
+
+> ## 🏁 Projects
+<ul>
+  <li>🧾 영수증 정산 업무 자동화 RPA, <sub>Billain (Backend)</sub> 
+    <a href="https://github.com/embedded-billain" target="_blank"><sub>Repository</sub></a> 
+    <a href="https://youtu.be/p3j5AzT-zWo?si=bhfJwE69_kWIwWCb target="_blank""><sub>YouTube</sub></a>
+  </li>
+  <li>🎬 쇼트트랙 하이라이트 생성 자동화 프로그램, <sub>ShortTrack-Highlight-Editor (Backend)</sub>
+    <a href="https://github.com/GCU-Team5/ShortTrack_AI_Editor" target="_blank"><sub>Repository</sub></a>
+    <a href="https://www.youtube.com/watch?v=JTOlXw7TDl8" target="_blank"><sub>YouTube</sub></a>
+  </li>
+  <li>📅 과제 일정 확인 App, <sub>We know what to do (Backend)</sub>
+    <a href="https://github.com/dongseoplee/assignment-notification" target="_blank"><sub>Repository</sub></a>
+    <a href="https://youtu.be/-nabFSmfPp4?si=xBLz_3J9M0-u1QOx" target="_blank"><sub>YouTube</sub></a>
+  </li>
+  <li>🌍 개인 포트폴리오 웹 페이지, <sub><del><a href="http://dongsseop2.com" target="_blank">dongsseop2.com</a></del> (Backend)</sub>
+    <a href="https://github.com/dongseoplee/private-homepage" target="_blank"><sub>Repository</sub></a>
+  </li>
+  <li>🕹️ 주차연습 게임, <sub>Parking Master (Backend)</sub>
+    <a href="https://github.com/dongseoplee/parking-game" target="_blank"><sub>Repository</sub></a>
+    <a href="https://www.youtube.com/watch?v=1J6KcHmXSiQ" target="_blank"><sub>YouTube</sub></a>
+  </li>
+  <li>📝 데일리 레포트 작성 서비스, <sub>Daily Report (Full)</sub>
+    <a href="https://github.com/dongseoplee/daily-report-front" target="_blank"><sub>Repository 1</sub></a>
+    <a href="https://github.com/dongseoplee/daily-report-back" target="_blank"><sub>Repository 2</sub></a>
+  </li>
+  <li>🏫 가천대학교 메타버스 구축, <sub>Gachon-Metaverse (Full)</sub>
+    <a href="https://github.com/dongseoplee/GachonUniv-Metaverse" target="_blank"><sub>Repository</sub></a>
+    <a href="https://youtu.be/3fs183NQAas?si=4At942PqLusn_rvL" target="_blank"><sub>YouTube</sub></a>
+  </li>
+  <li>💸 공유킥보드 플랫폼 별 주행 요금 비교 서비스, <sub>Kickboard-fee-calculator (Infra)</sub>
+    <a href="https://github.com/dongseoplee/Kickboard-Fee-Calculator" target="_blank"><sub>Repository</sub></a>
+  </li>
+  <li>🚁 빈 주차자리 안내 드론, <sub>parking lot drone (Imbedded)</sub>
+    <a href="https://github.com/dongseoplee/outside-parking-lot-navigation" target="_blank"><sub>Repository</sub></a>
+    <a href="https://youtu.be/FvH0SAdLeug?si=eV_Z7JZ73F3i7uMN" target="_blank"><sub>YouTube</sub></a>
+  </li>
+</ul>
 
 <br>
 
@@ -75,46 +117,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
 </details>
-
-<br>
-
-> ## 🏁 Projects
-<ul>
-  <li>🧾 영수증 정산 업무 자동화 RPA, <sub>Billain (Backend)</sub> 
-    <a href="https://github.com/embedded-billain" target="_blank"><sub>Repository</sub></a> 
-    <a href="https://youtu.be/p3j5AzT-zWo?si=bhfJwE69_kWIwWCb target="_blank""><sub>YouTube</sub></a>
-  </li>
-  <li>🎬 쇼트트랙 하이라이트 생성 자동화 프로그램, <sub>ShortTrack-Highlight-Editor (Backend)</sub>
-    <a href="https://github.com/GCU-Team5/ShortTrack_AI_Editor" target="_blank"><sub>Repository</sub></a>
-    <a href="https://www.youtube.com/watch?v=JTOlXw7TDl8" target="_blank"><sub>YouTube</sub></a>
-  </li>
-  <li>📅 과제 일정 확인 App, <sub>We know what to do (Backend)</sub>
-    <a href="https://github.com/dongseoplee/assignment-notification" target="_blank"><sub>Repository</sub></a>
-    <a href="https://youtu.be/-nabFSmfPp4?si=xBLz_3J9M0-u1QOx" target="_blank"><sub>YouTube</sub></a>
-  </li>
-  <li>🌍 개인 포트폴리오 웹 페이지, <sub><del><a href="http://dongsseop2.com" target="_blank">dongsseop2.com</a></del> (Backend)</sub>
-    <a href="https://github.com/dongseoplee/private-homepage" target="_blank"><sub>Repository</sub></a>
-  </li>
-  <li>🕹️ 주차연습 게임, <sub>Parking Master (Backend)</sub>
-    <a href="https://github.com/dongseoplee/parking-game" target="_blank"><sub>Repository</sub></a>
-    <a href="https://www.youtube.com/watch?v=1J6KcHmXSiQ" target="_blank"><sub>YouTube</sub></a>
-  </li>
-  <li>📝 데일리 레포트 작성 서비스, <sub>Daily Report (Full)</sub>
-    <a href="https://github.com/dongseoplee/daily-report-front" target="_blank"><sub>Repository 1</sub></a>
-    <a href="https://github.com/dongseoplee/daily-report-back" target="_blank"><sub>Repository 2</sub></a>
-  </li>
-  <li>🏫 가천대학교 메타버스 구축, <sub>Gachon-Metaverse (Full)</sub>
-    <a href="https://github.com/dongseoplee/GachonUniv-Metaverse" target="_blank"><sub>Repository</sub></a>
-    <a href="https://youtu.be/3fs183NQAas?si=4At942PqLusn_rvL" target="_blank"><sub>YouTube</sub></a>
-  </li>
-  <li>💸 공유킥보드 플랫폼 별 주행 요금 비교 서비스, <sub>Kickboard-fee-calculator (Infra)</sub>
-    <a href="https://github.com/dongseoplee/Kickboard-Fee-Calculator" target="_blank"><sub>Repository</sub></a>
-  </li>
-  <li>🚁 빈 주차자리 안내 드론, <sub>parking lot drone (Imbedded)</sub>
-    <a href="https://github.com/dongseoplee/outside-parking-lot-navigation" target="_blank"><sub>Repository</sub></a>
-    <a href="https://youtu.be/FvH0SAdLeug?si=eV_Z7JZ73F3i7uMN" target="_blank"><sub>YouTube</sub></a>
-  </li>
-</ul>
 
 <br>
 
