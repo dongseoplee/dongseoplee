@@ -3,9 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dongseop-lee-a47307282/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leeeeeds123@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://dozerland.tistory.com/)
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongseoplee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
+<!--
+ <a href="https://hits.seeyoufarm.com">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongseoplee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+ </a>
+-->
 <br>
 
 <strong>👨‍💻 Software Engineer / Backend Developer</strong>
@@ -130,6 +132,12 @@
   </li>
   <li>
     SQLD <sub> 한국데이터산업진흥원 | 2023.04.14</sub>
+  </li>
+  <li>
+    ADsP <sub> 한국데이터산업진흥원 | 2025.03.21</sub>
+  </li>
+  <li>
+    리눅스마스터 2급 <sub> 한국정보통신진흥협회 | 2025.03.28</sub>
   </li>
 </ul>
 
