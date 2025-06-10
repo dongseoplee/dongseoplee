@@ -182,6 +182,11 @@
  <li>
    <a href="https://github.com/mybatis/spring/pull/1023">[Merged]</a> MyBatis/spring의 docs 오타 수정
  </li>
+ <ul>
+      <li>
+       <a href="https://github.com/mybatis/spring/releases/tag/mybatis-spring-3.0.5">[Released]</a> mybatis-spring 3.0.5+
+      </li>
+ </ul>
 </ul>
 
 <br>
