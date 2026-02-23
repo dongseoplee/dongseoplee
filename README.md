@@ -16,17 +16,18 @@
 <br>
 
 > ## ⭐ Experience
-<li>
-  <a href="https://saber-indigo-bdc.notion.site/DX-bab3cf2a587f42718da888155ae44b74?pvs=4" target="_blank">
-    Spacebank Internship
-  </a>
-  <sub>(2022.12.19 ~ 2023.02.24)</sub>
-  
-  <ul>
-      <sub>- Developing an RPA Solution</sub>
-  </ul>
-</li>
-
+<ul>
+ <li>
+   <a href="https://saber-indigo-bdc.notion.site/DX-bab3cf2a587f42718da888155ae44b74?pvs=4" target="_blank">
+     Spacebank Internship
+   </a>
+   <sub>(2022.12.19 ~ 2023.02.24)</sub>
+   
+   <ul>
+       <sub>- Developing an RPA Solution</sub>
+   </ul>
+ </li>
+</ul>
 <br>
 
 > ## 🏁 Projects
@@ -69,7 +70,9 @@
 
 <br>
 
+
 > ## 🛠️ Skills
+<ul>
 <details>
 <summary>👇 Detail Skills </summary>
 
@@ -122,7 +125,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
 </details>
-
+</ul>
+ 
 <br>
 
 > ## 📚 Certificates
