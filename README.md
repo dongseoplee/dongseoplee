@@ -143,6 +143,9 @@
   <li>
     리눅스마스터 2급 <sub> 한국정보통신진흥협회 | 2025.03.28</sub>
   </li>
+  <li>
+    ERP 정보관리사 2급 (물류, 생산)<sub> 한국생산성본부 | 2026.06.16</sub>
+  </li>
 </ul>
 
 <br>
@@ -172,7 +175,7 @@
 > ## ⭐️ Activities
 <ul>
   <li>
-    데이터야놀자 운영위원회 <sub>(2023, 2024) <a href="https://www.asiaherald.co.kr/news/27538" target="_blank">뉴스기사</a></sub>
+    데이터야놀자 운영위원회 <sub>(2023, 2024, 2025) <a href="https://www.asiaherald.co.kr/news/27538" target="_blank">뉴스기사</a></sub>
   </li>
   <li>
     SK C&C UI/UX 직무체험 <sub>(2023.11.02 ~ 2023.11.09) <a href="https://github.com/dongseoplee/SK-CnC-UI-UX" target="_blank">발표자료</a></sub>
@@ -180,7 +183,7 @@
 </ul>
 
 <br>
-
+<!--
 > ## 🤝 Opensource Contribution
 <ul>
  <li>
@@ -192,7 +195,7 @@
       </li>
  </ul>
 </ul>
-
+-->
 <br>
 
 <table style="border-collapse: collapse; border: none;">
